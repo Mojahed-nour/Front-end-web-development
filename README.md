@@ -7,4 +7,4 @@ Here I will continuously upload my activities &amp; Tasks related to IOTs .
 
 3rd task : Building an app for the control panel using App Inventor.
 
-4th tas : Building a chatbot app 
+4th task : Building a chatbot app 
