@@ -1,4 +1,4 @@
-# Front-end web developmen
+# Front-end web development
 Here I will continuously upload my activities &amp; Tasks related to Front-end web development .
 ![front-end-web-development](https://user-images.githubusercontent.com/67114907/91346945-3e314000-e7ea-11ea-9776-11e81a90a036.jpg)
 
@@ -30,7 +30,7 @@ $conn = mysqli_connect('localhost', 'root', '', 'mojahed_task2').
  6. running Apache and MySQL in XAMPP
 ![Control panel for the robot -screenshot](https://user-images.githubusercontent.com/67114907/91346653-d67af500-e7e9-11ea-9eb1-31f507ffba30.jpg)
 
-## [2nd# Chatbot app ](https://github.com/Mojahed-nour/Internet-Of-Things/tree/master/Building%20a%20chatbot%20app) :
+## [2nd# Building Chatbot app ](https://github.com/Mojahed-nour/Internet-Of-Things/tree/master/Building%20a%20chatbot%20app) :
 Basic Chatbot With Speech Recognition utilizing MIT app innovator.
 it recognizes the speech and replies concurring to it, it shows and expresses the answer message. 
 For more details (i.e.code , APK and project file) [ click here ](https://github.com/Mojahed-nour/Internet-Of-Things/tree/master/Building%20a%20chatbot%20app)
